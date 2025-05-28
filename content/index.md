@@ -1,14 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome To My Digital Garden
 ---
+You have stumbled into a small walled garden. Where do you go from here?
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-Test!
-
-Here we go!
-
-Hi internet.
-
-Hi Raine ❤️
+> [!note]
+>This site is a constant WIP so stay posted :)
