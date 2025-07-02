@@ -2,5 +2,5 @@
 tags:
   - seed
   - lcp/medium
-link:
+link: https://leetcode.com/problems/design-sql/description/
 ---
