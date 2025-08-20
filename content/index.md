@@ -7,5 +7,7 @@ You have stumbled into a small walled [[Digital Gardens|garden]]. Where do you g
 
 I am a software engineer currently at Microsoft. I work in customer security and government compliance. 
 
+Currently taking notes on [[Software_Engineering/System_Design/|system design concepts!]] 
+
 > [!note]
 >This site is a constant WIP so stay posted :)
