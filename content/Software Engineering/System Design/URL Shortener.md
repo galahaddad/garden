@@ -119,7 +119,36 @@ API-->>Client: 201 {short_url}
 
 ---
 
+## Unique ID Generation
   
+
+
+- **Base62/Base64 = encoding, not uniqueness.**
+
+- Strategies:
+
+	- **Counter + encode**: short, predictable, no collisions.
+	
+	- **Snowflake IDs**: distributed, collision-free, ~11 chars.
+	
+	- **Random tokens**: 72–96 bits + unique index, retried on collision.
+	
+	- **KGS**: pre-mint short codes, lease atomically.
+
+  
+
+- Deep Dive:
+
+	- **Counter+encode** → simplest, but predictable.
+	
+	- **Snowflake** → distributed, safe at scale.
+	
+	- **Random+unique index** → best for privacy/security.
+	
+	- **KGS** → ensures short vanity codes stay unique.
+
+
+---
 
 ## Redirect Flow
 
