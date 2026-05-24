@@ -10,3 +10,4 @@ content/.smart-env
 private/
 .replit
 replit.nix
+.superpowers/
